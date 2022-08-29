@@ -6,7 +6,6 @@
 ## About me
 I am a beginner web developer who wants to learn and develop in web programming. 
 I have good web design skills that I can apply in the development of future sites.
-##Skills
 ## Skills
 * HTML
 * CSS
